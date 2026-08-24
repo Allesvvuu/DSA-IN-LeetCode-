@@ -21,24 +21,19 @@ class Solution {
                     row--;
                     col++;
                 }
-               } else {
-                    if (row == m -1){
-                        col ++;
-                        up = true;
-                    }
-                    else if (col == 0) {
-                        row++;
-                        up = true;
-                    }
-                    else {
-                        row ++;
-                        col--;
-                    }
+            } else {
+                if (row == m - 1) {
+                    col++;
+                    up = true;
+                } else if (col == 0) {
+                    row++;
+                    up = true;
+                } else {
+                    row++;
+                    col--;
                 }
-
             }
-            return result;
-
         }
-
+        return result;
     }
+}
