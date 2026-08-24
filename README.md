@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0498-diagonal-traverse) |
 | [1572-matrix-diagonal-sum](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0498-diagonal-traverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
