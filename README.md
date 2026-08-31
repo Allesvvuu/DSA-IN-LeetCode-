@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
@@ -25,8 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
