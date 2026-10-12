@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
 ## Recursion
@@ -81,9 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
