@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
 | [1572-matrix-diagonal-sum](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -68,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
