@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0344-reverse-string) |
 ## Linked List
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0020-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Allesvvuu/DSA-IN-LeetCode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
